@@ -1,5 +1,8 @@
 # 3. Recursos e Funcionalidades
 
+A plataforma é um sistema de gestão para salões de beleza, com módulos para clientes e administradores. Seu objetivo é facilitar o agendamento de serviços, o controle da agenda e o gerenciamento de clientes. Entre os benefícios estão a praticidade, segurança, lembretes automáticos, múltiplas formas de pagamento e acesso por celular ou navegador. As principais funções incluem cadastro, agendamento, feedback, gestão de dependentes e controle administrativo.
+
+
 ## 3.1 Requisitos Funcionais
 
 | Código | Descrição |
