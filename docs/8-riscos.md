@@ -1,6 +1,5 @@
 # 8. Riscos E Mitigação
 
-
 Durante o desenvolvimento do sistema para o salão de beleza alguns principais riscos e o que faremos para evitá-los:
 -Atrasos no cronograma
  O projeto pode demorar mais do que o esperado. Para evitar isso, vamos dividir as tarefas em etapas pequenas e acompanhar o andamento semanalmente.

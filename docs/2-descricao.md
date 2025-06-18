@@ -1,5 +1,9 @@
 # 2. Descrição do Projeto
 
+O projeto consiste em uma plataforma de gestão para salões de serviços, com módulos para clientes e administradores. Clientes poderão se cadastrar, agendar serviços, escolher formas de pagamento, receber lembretes, cadastrar dependentes e deixar feedback. Administradores poderão gerenciar a agenda, os serviços e os dados dos clientes. O sistema será seguro, compatível com dispositivos móveis e navegadores modernos, hospedado na nuvem e suportará até 50 usuários simultâneos.
+
+
+
 ## 2.1 Visão Geral
 
 A plataforma é um sistema de gestão para salões de beleza, com módulos para clientes e administradores. Seu objetivo é facilitar o agendamento de serviços, o controle da agenda e o gerenciamento de clientes. Entre os benefícios estão a praticidade, segurança, lembretes automáticos, múltiplas formas de pagamento e acesso por celular ou navegador. As principais funções incluem cadastro, agendamento, feedback, gestão de dependentes e controle administrativo.
@@ -12,6 +16,8 @@ A plataforma é um sistema de gestão para salões de beleza, com módulos para 
 - Acesso por celular ou navegador
 
 ## 2.1 Canvas Do Projeto
+
+https://imgur.com/a/gHDB79f
 
 ## 2.2 Stakeholders
 
