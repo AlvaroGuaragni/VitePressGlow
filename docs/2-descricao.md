@@ -17,7 +17,7 @@ A plataforma é um sistema de gestão para salões de beleza, com módulos para 
 
 ## 2.2 Stakeholders
 
-Cliente – Pessoa que utiliza a plataforma para agendar serviços, cadastrar-se, fornecer feedback e gerenciar seus dados e dependentes.
+**Cliente – Pessoa que utiliza a plataforma para agendar serviços, cadastrar-se, fornecer feedback e gerenciar seus dados e dependentes.**
 Administrador do Salão – Responsável por gerenciar a agenda, cadastrar serviços e combos, manter o controle dos clientes e dependentes, e acompanhar o histórico de agendamentos. 
 Equipe de Desenvolvimento – Grupo de profissionais responsáveis por projetar, codificar, testar e implementar o sistema.
 Especialista de Beleza – Profissional com conhecimento profundo sobre o funcionamento de salões de beleza e estética. 
