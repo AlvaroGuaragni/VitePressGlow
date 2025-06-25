@@ -1,3 +1,11 @@
 # 6. Protótipo
 
-https://www.figma.com/design/qcazCaQ2cTuO7hy5LEQ6nF/Prot%C3%B3tipo-Glow-Sal%C3%A3o-De-Beleza?node-id=0-1&t=qkSYpaoYthWK7Luf-1
+![](/images/pg1.png)
+![](/images/pg2.png)
+![](/images/pg3.png)
+![](/images/pg4.png)
+![](/images/pg5.png)
+![](/images/pg6.png)
+![](/images/pg7.png)
+![](/images/pg8.png)
+![](/images/pg9.png)
