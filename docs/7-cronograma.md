@@ -1,4 +1,4 @@
-# 6. Cronograma e Entrega
+# 7. Cronograma e Entrega
 
 | Data        | Atividade |
 |-------------|-----------|
