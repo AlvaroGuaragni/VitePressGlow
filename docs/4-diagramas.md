@@ -1,6 +1,6 @@
 # 4. Diagramas
 
-https://drive.google.com/file/d/12cuIXLKzfoi1-oPVH1Jh5rbZI-LneBMP/view?usp=sharing
+![diagrama de casos de uso](diagrama1.png)
 
 
 ## 4.1 Descrição dos casos de uso

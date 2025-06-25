@@ -1,3 +1,5 @@
+![logo](/images/logo.png)
+
 # 1. Introdução
 
 O sistema em questão será uma plataforma de gestão para um salão de serviços, oferecendo módulos distintos para clientes e administradores, com funcionalidades específicas para cada tipo de usuário. O módulo “Cliente” será destinado a pessoas físicas que desejam usufruir dos serviços oferecidos pelo salão, permitindo que os usuários realizem seu cadastro, agendem serviços, escolham formas de pagamento e forneçam feedback sobre os serviços prestados. Já o módulo “ADM” será destinado à administração do salão, permitindo aos administradores gerenciar a agenda, o cadastro de serviços, o cadastro de clientes e dependentes, além do histórico de agendamentos.
