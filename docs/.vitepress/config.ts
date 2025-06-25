@@ -21,7 +21,7 @@ export default defineConfig({
           { text: '7. Cronograma e Entrega', link: '/7-cronograma' },
           { text: '8. Riscos E mitigação', link: '/8-riscos' },
           { text: '9. Custos E Orçamento', link: '/9-custos' },
-          { text: '9. Considerações Finais', link: '/10-consideracoes' }
+          { text: '10. Considerações Finais', link: '/10-consideracoes' }
         ]
       }
     ]
